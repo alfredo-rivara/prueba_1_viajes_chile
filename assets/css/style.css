@@ -3,7 +3,13 @@
     height: auto;
 }
 
-.quienes-somos {
-    
+.quienes-somos, .destacados {
+    font-family: Raleway;
+    background-color: #020D33;
+    color: whitesmoke;
 }
 
+.card img {
+    object-fit: cover;
+    height: 200px;
+}
