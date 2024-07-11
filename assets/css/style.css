@@ -3,7 +3,13 @@
     height: auto;
 }
 
-.quienes-somos, .destacados {
+.fira-sans-extrabold {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+.quienes-somos, .destacados, .contacto, footer {
     font-family: Raleway;
     background-color: #020D33;
     color: whitesmoke;
